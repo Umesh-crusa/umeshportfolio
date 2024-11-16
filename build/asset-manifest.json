@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/umeshportfolio/static/css/main.009fa314.css",
+    "main.js": "/umeshportfolio/static/js/main.805c85d8.js",
+    "static/media/slide2.jpg": "/umeshportfolio/static/media/slide2.13726ea0b71c16e1a152.jpg",
+    "static/media/slide3.jpg": "/umeshportfolio/static/media/slide3.6e78d37d16865fc98ada.jpg",
+    "static/media/slide4.jpg": "/umeshportfolio/static/media/slide4.fe404dd09ffa9d998b71.jpg",
+    "static/media/about image.jpg": "/umeshportfolio/static/media/about image.899819133cdb2f8614a3.jpg",
+    "static/media/home image.jpg": "/umeshportfolio/static/media/home image.a7254a9b5440f9c5f009.jpg",
+    "static/media/tailwindcss.jpg": "/umeshportfolio/static/media/tailwindcss.a834a00a2561b559e5cc.jpg",
+    "static/media/reactjs.jpg": "/umeshportfolio/static/media/reactjs.8407c56b804db1d12251.jpg",
+    "index.html": "/umeshportfolio/index.html",
+    "main.009fa314.css.map": "/umeshportfolio/static/css/main.009fa314.css.map",
+    "main.805c85d8.js.map": "/umeshportfolio/static/js/main.805c85d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.009fa314.css",
+    "static/js/main.805c85d8.js"
+  ]
+}
