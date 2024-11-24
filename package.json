@@ -1,9 +1,10 @@
 {
-  "homepage": "https://umesh-crusa.github.io/umeshportfolio",
+  
   "name": "portfoleo",
   "version": "0.1.0",
-  "private": true,
-  "dependencies": {
+  "private": true
+   ,"homepage": "https://umesh-crusa.github.io/umeshportfolio",
+   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -15,12 +16,13 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
